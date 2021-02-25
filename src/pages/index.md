@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-seoTitle: Reviewed in 2021
+seoTitle: Apples Plus
 seoDescription: Here you will get quality Products Reviews
 categories: []
 ---
