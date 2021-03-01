@@ -28,7 +28,7 @@ ads:
   enableAds: false
 topNav:
   - title: Home
-    link: https://applesplus.com/
+    link: https://www.applesplus.com/
   - title: Soundbar
     link: /soundbar/
     child: []
