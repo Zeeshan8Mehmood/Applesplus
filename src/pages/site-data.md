@@ -32,6 +32,8 @@ topNav:
   - title: Soundbar
     link: /soundbar/
     child: []
+  - title: Single Products
+    link: /single-products/
   - title: Blog
     link: /blog/
 footerNav:
