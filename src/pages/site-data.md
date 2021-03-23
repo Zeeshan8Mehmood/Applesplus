@@ -30,12 +30,12 @@ topNav:
   - title: Home
     link: https://www.applesplus.com/
   - title: Soundbar
-    link: /soundbar/
+    link: soundbar
     child: []
   - title: Single Products
-    link: /single-products/
+    link: single-products
   - title: Blog
-    link: /blog/
+    link: blog
 footerNav:
   - title: About Us
     link: /about-us/
